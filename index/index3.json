@@ -1,4 +1,7 @@
 {
-  "usingComponents": {},
+  "component": true,
+  "usingComponents": {
+  
+  },
   "navigationBarTitleText": "我的"
 }
