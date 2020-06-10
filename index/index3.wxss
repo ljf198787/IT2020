@@ -1,4 +1,5 @@
 .intro {
-  margin: 30px;
+  margin: 60;
   text-align: center;
+
 }
